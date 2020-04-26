@@ -1,6 +1,6 @@
 #!/bin/bash
 
-ORG_ALIAS="lookup-lwc"
+ORG_ALIAS="lookup_lwc"
 if [ "$#" -eq 1 ]; then
   ORG_ALIAS="$1"
 fi
