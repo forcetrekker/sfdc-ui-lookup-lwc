@@ -1,7 +1,7 @@
 @echo OFF
 
 rem set parameters
-set ORG_ALIAS=lookup_lwc
+set ORG_ALIAS=lookup-lwc
 
 @echo:
 echo Installing org with alias: %ORG_ALIAS%
